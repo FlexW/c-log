@@ -23,7 +23,7 @@
 
 #define _XOPEN_SOURCE
 #define _ISOC99_SOURCE
-#define _BSD_SOURCE
+#define _DEFAULT_SOURCE
 
 #if (__STDC_VERSION__ < 199901L)
 #error "C99 Compiler for logging needed."
