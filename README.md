@@ -1,7 +1,7 @@
 # c-log
 
 Simple logging library for C. Just include the header and you are ready to start.
-It is possible to log to stdout or to a file.
+It is possible to log to stdout or to a file. Library is not thread-safe.
 
 ## Usage
 Log to stdout:
